@@ -170,21 +170,31 @@ google-services.json
 
 ---
 
-## Screenshots
-
 ## UI Overview
 
 ### Login Screen
-<img src="ui-overview/login.png" width="350">
+<img src="login-screen.png.png" width="350">
 
-### Inventory Screen
-<img src="ui-overview/inventory.png" width="350">
+---
 
-### Add Item Screen
-<img src="ui-overview/add-item.png" width="350">
+### Add Tag Screen
+<img src="add-tag-screen.png.png" width="350">
+
+---
 
 ### Scan Screen
-<img src="ui-overview/scan.png" width="350">
+<img src="scan-screen.png.png" width="350">
+
+---
+
+### Sort and Filter Screen
+<img src="sort-filter-screen.png.png" width="350">
+
+---
+
+### Take Photo Screen
+<img src="take-photo-screen.png.png" width="350">
+
 
 ---
 
