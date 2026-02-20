@@ -173,27 +173,27 @@ google-services.json
 ## UI Overview
 
 ### Login Screen
-<img src="login-screen.png" width="350">
+<img src="ui-overview/login-screen.png" width="350">
 
 ---
 
 ### Add Tag Screen
-<img src="add-tag-screen.png" width="350">
+<img src="ui-overview/add-tag-screen.png" width="350">
 
 ---
 
 ### Scan Screen
-<img src="scan-screen.png" width="350">
+<img src="ui-overview/scan-screen.png" width="350">
 
 ---
 
 ### Sort and Filter Screen
-<img src="sort-filter-screen.png" width="350">
+<img src="ui-overview/sort-filter-screen.png" width="350">
 
 ---
 
 ### Take Photo Screen
-<img src="take-photo-screen.png" width="350">
+<img src="ui-overview/take-photo-screen.png" width="350">
 
 
 ---
