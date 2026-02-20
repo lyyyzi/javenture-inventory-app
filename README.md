@@ -172,14 +172,19 @@ google-services.json
 
 ## Screenshots
 
-(Add screenshots here)
+## UI Overview
 
-Example:
+<p align="center">
+  <img src="ui-overview/login-screen.png" width="250">
+  <img src="ui-overview/scan-screen.png" width="250">
+  <img src="ui-overview/sort-filter-screen.png" width="250">
+</p>
 
-```
-![Inventory Screen](screenshots/inventory.png)
-![Add Item Screen](screenshots/add_item.png)
-```
+<p align="center">
+  <img src="ui-overview/take-photo-screen.png" width="250">
+  <img src="ui-overview/add-tag-screen.png" width="250">
+</p>
+
 
 ---
 
