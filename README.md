@@ -174,17 +174,17 @@ google-services.json
 
 ## UI Overview
 
-<p align="center">
-  <img src="ui-overview/login-screen.png" width="250">
-  <img src="ui-overview/scan-screen.png" width="250">
-  <img src="ui-overview/sort-filter-screen.png" width="250">
-</p>
+### Login Screen
+<img src="ui-overview/login.png" width="350">
 
-<p align="center">
-  <img src="ui-overview/take-photo-screen.png" width="250">
-  <img src="ui-overview/add-tag-screen.png" width="250">
-</p>
+### Inventory Screen
+<img src="ui-overview/inventory.png" width="350">
 
+### Add Item Screen
+<img src="ui-overview/add-item.png" width="350">
+
+### Scan Screen
+<img src="ui-overview/scan.png" width="350">
 
 ---
 
